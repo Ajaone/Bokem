@@ -66,7 +66,7 @@ if (!isset($_SESSION['user'])) {
 <body>
 
     <div class="header">
-        <!-- <a href="edit_profile.php"><button>Edit Profile</button></a> -->
+        <a href="edit_profile.php"><button>Edit Profile</button></a>
         <a href="logout.php"><button>Logout</button></a>
     </div>
 
